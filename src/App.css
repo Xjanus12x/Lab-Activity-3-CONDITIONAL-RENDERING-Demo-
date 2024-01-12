@@ -1,0 +1,30 @@
+.bg-red {
+  background-color: red;
+}
+.bg-dark {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-green {
+  background-color: green;
+}
+.text-white {
+  color: white;
+}
+.text-bold {
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+}
+.gap-1 {
+  gap: 1rem;
+}
+.border-black {
+  border: 1px solid black;
+}
